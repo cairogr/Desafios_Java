@@ -1,22 +1,29 @@
 # Desafio
-Jorginho é professor do primário de uma determinada escola. Ele tem 100000 alunos e precisa criar um programa que verifica quantos espaços em branco e quantas vogais existem em uma determinada string de entrada que os alunos entregaram na avaliação final. Ajude-o a realizar essa tarefa antes que o tempo para entrega-la no fim do semestre acabe!
+Faça um programa que solicite o nome do usuário e imprima-o de forma a mostrar o nome em formato de escada.
 
 #### Entrada 
-A entrada será uma frase no formato de string. 
+A entrada consiste em uma string, sendo ela uma palavra.
 
 #### Saída
-A saída deverá retornar quantos espaços em branco e quantas vogais existem na determinada string, conforme exemplo abaixo:
+A saída deverá imprimir a palavra em formato de escada, letra por letra, até se completar a palavra, conforme exemplo abaixo.
 
  
 
 
 |                |ENTRADA                          |SAÍDA                         |
 |----------------|-------------------------------|---------------
-| |` “Amo a DIO” `            |  Espacos em branco: 2 Vogais: 5 		            |
-| |` “Esse desafio foi facil” `           |  Espacos em branco: 3 Vogais: 10  |
-| |` “Navegar nas aguas do teu mar” `| Espacos em branco: 5 Vogais: 11 |				
-| |`9`| |				
-| |`10`|
+| |` FULANO `            |  F
+| | |                         FU
+| || FUL
+| || FULA
+| || FULAN
+| || FULANO            |
+| |` MARIA `           |  M
+| || MA
+| || MAR
+| || MARI
+| || MARIA  |
+
 
 
 
