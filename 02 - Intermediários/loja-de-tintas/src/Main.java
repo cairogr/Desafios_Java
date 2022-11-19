@@ -10,7 +10,7 @@ public class Main {
 
 
         double quantidadeLatas= round((areaCoberta/6)/18);
-        double quantidadeGaloes= round(abs((areaCoberta/6)/3.6));
+        double quantidadeGaloes= round(abs((areaCoberta/6)/3.5));
         double valorGalao=25;
         double valorLata=80;
 
